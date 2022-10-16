@@ -10,6 +10,8 @@ My page will contain repositories for school projects, and currently I am only u
 
 For contact, please send me an e-mail at ole.braenna@gmail.com!
 
+Based in Oslo, Norway 🇳🇴 
+
 
 
 <!--
