@@ -2,16 +2,11 @@
 
 My name is Ole-Aleksander Braenna!
 
-I am currently a student at Noroff School of Technology and Digital Media.
-
-I am studying Front-End Development - I started in October '21 and I'll finish in October '23!
-
-My page will contain repositories for school projects, and currently I am mainly using React and Bootstrap.
-
-For contact, please send me an e-mail at ole.braenna@gmail.com!
-
 Based in Oslo, Norway 🇳🇴 
 
+Currently working as a freelance developer, studied at Noroff School of Technology and Digital Media, graduated oct '23.
+
+For any and all questions, please contact me at ole-a@braenna.com
 
 
 <!--
